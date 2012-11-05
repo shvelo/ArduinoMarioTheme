@@ -4,6 +4,11 @@
 //  Freyr Bergsteinsson <freyrb12@ru.is>
 //  Egill Bjornsson <egillb12@ru.is>
 
+// This work is licensed under the Creative Commons
+// Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+// To view a copy of this license, visit
+// http://creativecommons.org/licenses/by-nc-sa/3.0/
+
 // Play the Mario Bros theme song
 
 // Video showing the assembled Arduino running this code:
