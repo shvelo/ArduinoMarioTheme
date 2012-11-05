@@ -19,25 +19,25 @@ It makes the Arduino play the Mario Bros theme song when the button is pressed.
 Arduino Assembly
 ----------------
 
-Pin | Connected to  
-----+------------------------------------------------------  
-  0 | Seven segment display pin 7  
-  1 | Seven segment display pin 6  
-  2 | Seven segment display pin 4  
-  3 | Seven segment display pin 2  
-  4 | Seven segment display pin 1  
-  5 | Seven segment display pin 9  
-  6 | Seven segment display pin 10  
-  7 | 330 ohm resistor -> Seven segment display pins 3 & 8  
-  8 | Button pin  
-  9 | 330 ohm resistor -> RGB led red light pin  
- 10 | 330 ohm resistor -> RGB led green light pin  
- 11 | 330 ohm resistor -> RGB led blue light pin  
- 12 | 10k ohm resistor -> Buzzer pin  
- 13 | Not used  
-----|------------------------------------------------------  
- 5v | Buzzer voltage pin  
-----|------------------------------------------------------  
-Gnd | RGB led ground pin  
-Gnd | Button ground pin  
-Gnd | Buzzer ground pin
+    Pin | Connected to  
+    ----+------------------------------------------------------  
+      0 | Seven segment display pin 7  
+      1 | Seven segment display pin 6  
+      2 | Seven segment display pin 4  
+      3 | Seven segment display pin 2  
+      4 | Seven segment display pin 1  
+      5 | Seven segment display pin 9  
+      6 | Seven segment display pin 10  
+      7 | 330 ohm resistor -> Seven segment display pins 3 & 8  
+      8 | Button pin  
+      9 | 330 ohm resistor -> RGB led red light pin  
+     10 | 330 ohm resistor -> RGB led green light pin  
+     11 | 330 ohm resistor -> RGB led blue light pin  
+     12 | 10k ohm resistor -> Buzzer pin  
+     13 | Not used  
+    ----|------------------------------------------------------  
+     5v | Buzzer voltage pin  
+    ----|------------------------------------------------------  
+    Gnd | RGB led ground pin  
+    Gnd | Button ground pin  
+    Gnd | Buzzer ground pin
