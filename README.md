@@ -19,6 +19,10 @@ It makes the Arduino play the Mario Bros theme song when the button is pressed.
 Arduino Assembly
 ----------------
 
+Accurate circuit diagram can be found [here](https://www.circuitlab.com/circuit/ex3a3m/into-skil9-egillogfreyr/).
+
+In general terms:
+
     Pin | Connected to  
     ----+------------------------------------------------------  
       0 | Seven segment display pin 7  
