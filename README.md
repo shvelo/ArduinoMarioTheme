@@ -1,7 +1,7 @@
 ArduinoMarioTheme
 =================
 
-Forked from:
+Original code by:  
  Freyr Bergsteinsson <freyrb12@ru.is>  
  Egill Bjornsson <egillb12@ru.is>
 
