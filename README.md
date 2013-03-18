@@ -24,5 +24,5 @@ Needed parts:
 
 Upverter: http://upverter.com/shvelo/90cefe1392430a6a/Arduino-simple-player/#
 
-[![Arduino simple player - Upverter](http://upverter.com/shvelo/90cefe1392430a6a/Arduino-simple-player/embed_img/13636079738735/)](http://upverter.com/shvelo/90cefe1392430a6a/Arduino-simple-player/#/)
+[![Arduino simple player - Upverter](http://upverter.com/shvelo/90cefe1392430a6a/Arduino-simple-player/export-png/)
 
