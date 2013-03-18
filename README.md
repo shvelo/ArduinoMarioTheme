@@ -15,6 +15,7 @@ Arduino Assembly
 ----------------
 
 Needed parts:  
+
     Arduino Uno
     1x 8ohm Speaker
     1x 100ohm Resistor
