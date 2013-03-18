@@ -17,7 +17,7 @@ Arduino Assembly
 Needed parts:  
 
     Arduino Uno
-    1x 8ohm Speaker
+    1x 8ohm Speaker (or 2x 4ohm speakers, produces higher quality)
     1x 100ohm Resistor
     1x 500ohm Potentiometer (optional)
     1x Simple switch (optional)
